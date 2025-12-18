@@ -1,0 +1,6 @@
+- Emissions|CO2:
+    unit: Mt CO2/yr
+    type: cum
+    year: 2020-2100
+    bound: lower
+    threshold: 150000

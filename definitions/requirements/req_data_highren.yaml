@@ -1,0 +1,6 @@
+required_data:
+  - measurand:
+      Primary Energy|Renewables (incl. Biomass):
+        unit: EJ/yr
+    region: World
+    year: [2050, 2100]

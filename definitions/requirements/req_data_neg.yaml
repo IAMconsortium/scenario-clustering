@@ -1,0 +1,6 @@
+required_data:
+  - measurand:
+      Emissions|CO2:
+        unit: Mt CO2/yr
+    region: World
+    year: [2020, 2100]

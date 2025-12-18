@@ -1,0 +1,12 @@
+- Emissions|CH4:
+    unit: Mt CH4/yr
+    type: change
+    year: 2020-2050
+    bound: upper
+    threshold: -0.5
+- Final Energy:
+    unit: EJ/yr
+    type: abs
+    year: 2100
+    bound: upper
+    threshold: 500

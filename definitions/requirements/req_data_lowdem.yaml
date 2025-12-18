@@ -1,0 +1,11 @@
+required_data:
+  - measurand:
+      Emissions|CH4:
+        unit: Mt CH4/yr
+    region: World
+    year: [2020, 2050]
+  - measurand:
+      Final Energy:
+        unit: EJ/yr
+    region: World
+    year: [2100]

@@ -1,0 +1,12 @@
+- Primary Energy|Renewables (incl. Biomass)@2050:
+    unit: EJ/yr
+    type: share
+    year: 2050
+    bound: lower
+    threshold: 0.3
+- Primary Energy|Renewables (incl. Biomass)@2100:
+    unit: EJ/yr
+    type: share
+    year: 2100
+    bound: lower
+    threshold: 0.575
